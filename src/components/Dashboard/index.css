@@ -1,0 +1,20 @@
+.dashboard {
+    height: 70vw;
+}
+
+.btn-custom {
+    background-color: #f96d15;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.btn-custom:hover {
+    background-color: #f96c15c2;
+    color: white;
+}
+
+.table {
+    border: 1px ridge lightgrey;
+}
+

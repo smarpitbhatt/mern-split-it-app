@@ -1,0 +1,27 @@
+.dropdown-item {
+    background-color: #f8f8f8;
+    border-radius: 4px;
+}
+
+.dropdown-item:hover {
+    background-color: #50b6bb;
+}
+
+.dropdown-menu {
+    padding: 0;
+}
+
+.btn-secondary {
+    margin-right: 10px;
+}
+
+.navbar {
+    height: 50px;
+}
+
+/* 
+whitish: f8f8f8;
+light blue: 50b6bb;
+darkish: 45969b;
+orange: f96d15;
+*/
